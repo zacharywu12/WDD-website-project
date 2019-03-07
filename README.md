@@ -1,5 +1,4 @@
 ## BONJOUR FRERE. MERE EST MECHANT
-## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zacharywu12/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
