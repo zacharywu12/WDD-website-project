@@ -1,6 +1,6 @@
 ## BONJOUR FRERE. MERE EST MECHANT
 
-#Netlify is also an option to create and host my website for free
+#Netlify is also an option to create and host my website for free. Also Google Firebase
 
 You can use the [editor on GitHub](https://github.com/zacharywu12/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
