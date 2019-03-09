@@ -1,5 +1,7 @@
 ## BONJOUR FRERE. MERE EST MECHANT
 
+#Netlify is also an option to create and host my website for free
+
 You can use the [editor on GitHub](https://github.com/zacharywu12/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
